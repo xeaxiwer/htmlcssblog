@@ -3,3 +3,8 @@ body *{
     background: hsl(210, 100%,50%, 0.33) !important; 
     outline: 0.25 rem solid hsl(210, 100%,100%, 0.5) !important; 
 }
+.debug-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
