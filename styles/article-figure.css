@@ -10,14 +10,15 @@
 .size-4 {
   grid-column: 1/8;
 }
-.size-1,
+.size-1 img,
 .size-2 img,
 .size-3 img,
 .size-4 img {
   width: 100%;
 }
 figcaption {
+margin-top: 0.5rem;
   display: flex;
-  align-items: center;
-  color: green;
+  justify-content: center;
+ 
 }
